@@ -60,11 +60,10 @@ Refer to the [Build Docker guide](https://github.com/chefmtt/riscv64/blob/main/b
 ## Build a K3s release
 Refer to the [Build K3s guide](https://github.com/chefmtt/riscv64/blob/main/build-k3s/build-k3s.md).
 
-# Special thanks
+##  Acknowledgement
+This project has received funding from the Key Digital Technologies Joint Undertaking (KDT JU) under grant agreement No 877056. The JU receives support from the European Union’s Horizon 2020 research and innovation programme and Spain, Italy, Austria, Germany, Finland, Switzerland.
 
-I would like to thank [@vahidmohsseni](https://github.com/vahidmohsseni) who provided me with a starting point and helped me in this work.
+![FRACTAL Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/jHmgbEb2QJoe8WY?x=1912&y=617&a=true&file=fractal_logo_2.png&scalingup=0)
 
-Finally, I greatly thank [@carloedp](https://github.com/carlosedp) for his work on the RISCV64 system, who managed to enable all these services to function properly on the architecture. His work to get K3s running on the ppc64le architecture have also been really helpful.
-
-https://github.com/carlosedp/riscv-bringup  
-https://github.com/carlosedp/ppc64le-bringup
+![EU Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/pessWNfeqBfYi3o?x=1912&y=617&a=true&file=eu_logo.png&scalingup=0)
+![KDT Logo](https://cloud.hipert.unimore.it/apps/files_sharing/publicpreview/yd7FgKisNgtLPTy?x=1912&y=617&a=true&file=kdt_logo.png&scalingup=0)  
